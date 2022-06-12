@@ -47,9 +47,9 @@ def arithmetic_mean(some_list):
     result = counter / len(some_list)
     return result
 
-# print(median(list_of_numbers), "it's median")
-#
-# print(arithmetic_mean(list_of_numbers), "it's arithmetic mean")
+print(median(list_of_numbers), "it's median")
+
+print(arithmetic_mean(list_of_numbers), "it's arithmetic mean")
 
 
 def the_largest_up_numbers_sequence(some_list):
